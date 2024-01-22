@@ -1,7 +1,7 @@
 # Hi!!
 ### I'm Jesús
 . Pronouns: He/him
-. How to reach me: [gmail](jesusmiranda2005@gmail.com)
+. How to reach me: gmail: jesusmiranda2005@gmail.com
 . I’m currently trying to improve my python skills
 
 <!---
